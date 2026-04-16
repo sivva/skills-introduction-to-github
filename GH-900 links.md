@@ -28,3 +28,9 @@ https://githubtraining.github.io/innersource-theory/#/measuring_success
 
 Secure supply chain
 https://github.com/skills/secure-repository-supply-chain
+
+Pull request:
+https://github.com/new?template_owner=skills&template_name=review-pull-requests&owner=%40me&name=skills-review-pull-requests&description=My+clone+repository&visibility=public
+
+Search history:
+https://github.com/new?template_owner=skills&template_name=connect-the-dots&owner=%40me&name=skills-connect-the-dots&description=My+clone+repository&visibility=public
